@@ -1,7 +1,4 @@
-variable "project_id" {
-  description = "the ID of the project where the bucket object will be created"
-  type        = string
-}
+
 variable "object_name" {
   type = string
 }
